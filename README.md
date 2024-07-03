@@ -198,29 +198,13 @@ end
 ### | ステップ7 （componentsフォルダの作成）
 
 1. [ app/javascript/react ] ディレクトリを作成
-2. index.jsx
-3. AddTodo.js
-4. App.js
-5. TodoList.js
-6. App.css
+2. その中に [ index.jsx ] を作成
 
 ```
 mkdir -p app/javascript/react
 ```
 ```
 touch app/javascript/react/index.jsx
-```
-```
-touch app/javascript/react/AddTodo.js
-```
-```
-touch app/javascript/react/App.js
-```
-```
-touch app/javascript/react/TodoList.js
-```
-```
-touch app/javascript/react/App.css
 ```
 
 [ react/index.js ]
