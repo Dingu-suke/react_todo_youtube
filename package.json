@@ -18,6 +18,6 @@
     "build": "esbuild app/javascript/application.js --bundle --outdir=app/assets/builds --minify",
     "build:css": "tailwindcss -o ./app/assets/builds/application.css --minify",
     "js": "esbuild app/javascript/application.js --bundle --outdir=app/assets/builds --watch",
-    "cs": "tailwindcss -o ./app/assets/builds/application.css --watch"
+    "css": "tailwindcss -o ./app/assets/builds/application.css --watch"
   }
 }
