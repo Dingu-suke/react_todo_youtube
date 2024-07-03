@@ -187,7 +187,7 @@ end
 ### | ステップ6  ~~（app/views/application.html.erb）~~
 
 これも、参考メモとは違う手法をとる。
-
+[ app/javascript/application.js ]
 ```diff
   // Entry point for the build script in your package.json
   import "@hotwired/turbo-rails"
